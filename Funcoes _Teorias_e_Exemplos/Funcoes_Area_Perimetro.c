@@ -24,7 +24,7 @@ int main (){
 
     printf ("Area do retangulo 2: %.2lf\n", AreaR2);
     printf ("Perimetro do retangulo 2: %.2lf\n", PerimetroR2);
-
+     
     return 0;
 }
 
